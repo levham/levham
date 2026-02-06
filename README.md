@@ -18,6 +18,10 @@
 |-------|----------|--------------|
 | [**JavaLesson**](https://github.com/levham/java-lesson) | Java Notlarım | Java,Github | 
 | [**JavaExample**](https://github.com/levham/java-example) | Java Örneklerim  | Java,Github 
+| [**JCalculator**](https://github.com/levham/JCalculator) | Hesap Makinesi  | Java,Console 
+| [**JStringManager**](https://github.com/levham/JStringManager) | String İşlemleri  | Java,Console 
+
+
 
 
 <!--
