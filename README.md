@@ -2,7 +2,7 @@
 # Levham 
 ### Desktop & Android Developer
 
-![badge](https://img.icons8.com/?size=20&id=58565&format=png)⠀[![badge](https://img.shields.io/badge/Levham.Github.io-brown)](https://levham.github.io.com)
+![badge](https://img.icons8.com/?size=20&id=58565&format=png)⠀[![badge](https://img.shields.io/badge/Levham.Github.io-brown)](https://levham.github.io)
 
 ![badge](https://img.icons8.com/?size=20&id=123847&format=png)⠀[![badge](https://img.shields.io/badge/Linkedin-brown)](https://www.linkedin.com/in/murathan-a-b16a1a26a/)  
  
