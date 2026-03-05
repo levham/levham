@@ -26,11 +26,7 @@
 |-------|----------|--------------|
 | [**JCalculator**](https://github.com/levham/JCalculator) | Hesap Makinesi  | Java,Console |
 | [**JStringManager**](https://github.com/levham/JStringManager) | String İşlemleri  | Java,Console |
-|JKronometre| Sayaç|Java,Console |
 |JImageConverter| Resim Dönüştürücü|Java,Console |
-|JImageViewer| Resim Görüntüleyici|Java,Swing |
-|JStudentManager| Öğrenci|Java,Swing |
-|JSystemHelper| Sistem Kullanımı|Java,Swing |
 
 
 ![resim](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
